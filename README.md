@@ -27,5 +27,26 @@ I followed the step-by-step instructions to install Node.js on my Mac machine. T
 ### 4.2 Install Node.js on Windows
 Similarly, I installed Node.js on my Windows machine by following the provided instructions. This involved downloading the Node.js installer for Windows and running it to complete the installation process. 💻
 
+## 5. Using Node.js
+This section covers how to use Node.js effectively. I learned about its core functionalities and how to leverage them in backend development projects.
+
+## 6. How to Use the Native Node Modules
+In this section, I explored the native modules available in Node.js and how to utilize them in my applications to enhance performance and functionality.
+
+## 7. The NPM Package Manager and Installing External Node Modules
+I learned about the NPM (Node Package Manager) and its significance in managing dependencies in Node.js projects. Additionally, I discovered how to install and use external Node modules to extend the functionality of my applications.
+
+## 8. Project: QR Code Generator
+I worked on a project to create a QR code generator using Node.js. This practical exercise helped me apply my knowledge of Node.js and understand how to build useful applications with it.
+
+## 9. What is Express?
+Express.js is a web application framework for Node.js, designed to simplify the process of building web applications and APIs. In this section, I gained an understanding of Express.js and its key features.
+
+## 10. Creating Our First Server with Express
+I learned how to create a basic server using Express.js. This hands-on experience allowed me to understand the structure of an Express application and how to handle routes and requests.
+
+## 11. HTTP Requests
+Understanding HTTP requests is crucial for building web applications. In this section, I learned about different types of HTTP requests and how to handle them effectively in Node.js and Express.js applications.
+
 ## Conclusion
 Through this learning journey, I've gained a solid foundation in Node.js and backend web development. I'm excited to continue exploring more advanced topics such as Express.js, MongoDB, and building RESTful APIs. Stay tuned for further updates on my Node.js journey! 🚀

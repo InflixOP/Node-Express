@@ -10,6 +10,13 @@ Welcome to my Node.js learning journey! 🎉 In this README file, I'll be docume
 4. [Installation Guide](#4-installation-guide)
    - [Install Node.js on Mac](#41-install-nodejs-on-mac)
    - [Install Node.js on Windows](#42-install-nodejs-on-windows)
+5. [Using Node.js](#5-using-nodejs)
+6. [How to Use the Native Node Modules](#6-how-to-use-the-native-node-modules)
+7. [The NPM Package Manager and Installing External Node Modules](#7-the-npm-package-manager-and-installing-external-node-modules)
+8. [Project: QR Code Generator](#8-project-qr-code-generator)
+9. [What is Express?](#10-what-is-express)
+10. [Creating Our First Server with Express](#11-creating-our-first-server-with-express)
+11. [HTTP Requests](#12-http-requests)   
 
 ## 1. Backend Web Development Explained
 In this section, I gained an understanding of what backend web development entails. I learned about the server-side of web applications, databases, and how they interact with the frontend. Understanding the role of the backend is crucial for building robust and scalable web applications. 🛠️
